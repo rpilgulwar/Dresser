@@ -1,0 +1,2 @@
+C:\Users\krupali.pilgulwar\Desktop\mE\Learning\Selenium\Program\GettingDressed\GettingDressed\GettingDressed\obj\Debug\GettingDressed.csprojResolveAssemblyReference.cache
+C:\Users\krupali.pilgulwar\Desktop\mE\Learning\Selenium\Program\GettingDressed\GettingDressed\GettingDressed\obj\Debug\GettingDressed.csproj.CoreCompileInputs.cache

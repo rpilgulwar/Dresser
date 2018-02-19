@@ -1,0 +1,6 @@
+C:\Users\krupali.pilgulwar\Desktop\mE\Learning\Selenium\Program\GettingDressed\GettingDressed\Dresser.BusinessLogic\bin\Debug\Dresser.BusinessLogic.dll
+C:\Users\krupali.pilgulwar\Desktop\mE\Learning\Selenium\Program\GettingDressed\GettingDressed\Dresser.BusinessLogic\bin\Debug\Dresser.BusinessLogic.pdb
+C:\Users\krupali.pilgulwar\Desktop\mE\Learning\Selenium\Program\GettingDressed\GettingDressed\Dresser.BusinessLogic\obj\Debug\Dresser.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\krupali.pilgulwar\Desktop\mE\Learning\Selenium\Program\GettingDressed\GettingDressed\Dresser.BusinessLogic\obj\Debug\Dresser.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\krupali.pilgulwar\Desktop\mE\Learning\Selenium\Program\GettingDressed\GettingDressed\Dresser.BusinessLogic\obj\Debug\Dresser.BusinessLogic.dll
+C:\Users\krupali.pilgulwar\Desktop\mE\Learning\Selenium\Program\GettingDressed\GettingDressed\Dresser.BusinessLogic\obj\Debug\Dresser.BusinessLogic.pdb
